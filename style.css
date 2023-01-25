@@ -2,7 +2,7 @@ body{
 
   background-color :rgb(255,255,255);
 
-  font-family:courier;
+  
 
 
 } 
@@ -12,5 +12,7 @@ p1{
   color:rgb(0,0,0);
   
   font-size:10px;
+
+  font-family:courier;
 
 }
